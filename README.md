@@ -1,4 +1,4 @@
-[# osint-tools](https://media.discordapp.net/attachments/1347189970044981339/1418682678961635348/standard_3.gif?ex=68cf02b4&is=68cdb134&hm=35a6e30def7dfd91565ac2ab4f2ee69bed6191d52eb9b165352bb048f4373573&=&width=748&height=264)
+![standard (3)](https://github.com/user-attachments/assets/5be7dd43-4ed3-4b8e-a5ba-4f071b700f75)
 
 Email and Username OSINT overlap a lot, mainly because people often use the first part of an email as their username. This field can be pretty profitable, many tools start free but eventually move to a paid model. Some of the resources below may require signing up for a free account, while others offer free trials. Don’t forget that Google advanced search is always an option, and you can also search websites by tweaking the URL to include the username. It’s also useful to modify the username itself like swapping an “O” for a zero.</p>
 <br></br>
