@@ -1,4 +1,5 @@
-![standard (3)](https://github.com/user-attachments/assets/5be7dd43-4ed3-4b8e-a5ba-4f071b700f75)
+![standard (3)](https://github.com/user-attachments/assets/964cba73-3e0e-48d5-9879-552a443fd622)
+
 
 Email and Username OSINT overlap a lot, mainly because people often use the first part of an email as their username. This field can be pretty profitable, many tools start free but eventually move to a paid model. Some of the resources below may require signing up for a free account, while others offer free trials. Don’t forget that Google advanced search is always an option, and you can also search websites by tweaking the URL to include the username. It’s also useful to modify the username itself like swapping an “O” for a zero.</p>
 <br></br>
